@@ -4,6 +4,7 @@ body {
   font-family: 'Poppins', sans-serif;;
 }
 nav {
+  width: 100vw;
   height: 4em;
   display: flex;
   align-items: center;
